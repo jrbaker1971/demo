@@ -1,1 +1,2 @@
-print ("Welcome to Git!")
+"Welcome to Git!"
+My name is Jennifer
